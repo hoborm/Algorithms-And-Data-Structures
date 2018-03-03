@@ -1,0 +1,1 @@
+C:\Users\hobor\Documents\Visual Studio 2015\Projects\Pluralsight Algorithms\Queue Array\Queue Array\bin\Debug\Queue Array.exe.config

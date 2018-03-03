@@ -1,0 +1,6 @@
+C:\Users\hobor\Documents\Visual Studio 2015\Projects\Pluralsight Algorithms\DoublyLinkedList\bin\Debug\DoublyLinkedList.exe.config
+C:\Users\hobor\Documents\Visual Studio 2015\Projects\Pluralsight Algorithms\DoublyLinkedList\bin\Debug\DoublyLinkedList.exe
+C:\Users\hobor\Documents\Visual Studio 2015\Projects\Pluralsight Algorithms\DoublyLinkedList\bin\Debug\DoublyLinkedList.pdb
+C:\Users\hobor\Documents\Visual Studio 2015\Projects\Pluralsight Algorithms\DoublyLinkedList\obj\Debug\DoublyLinkedList.csprojResolveAssemblyReference.cache
+C:\Users\hobor\Documents\Visual Studio 2015\Projects\Pluralsight Algorithms\DoublyLinkedList\obj\Debug\DoublyLinkedList.exe
+C:\Users\hobor\Documents\Visual Studio 2015\Projects\Pluralsight Algorithms\DoublyLinkedList\obj\Debug\DoublyLinkedList.pdb
